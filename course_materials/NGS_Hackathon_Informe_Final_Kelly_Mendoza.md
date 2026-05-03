@@ -1,8 +1,7 @@
 # NGS Hackathon — Informe
 
 **Universidad Publica de Navarra**  
-**Master en Metodos Computacionales en Ciencias**  
-**Modulo:** Analisis e interpretacion de datos de alto rendimiento  
+**Bioinformatica**
 **Nombre:** Kelly Mendoza   
 
 ---
