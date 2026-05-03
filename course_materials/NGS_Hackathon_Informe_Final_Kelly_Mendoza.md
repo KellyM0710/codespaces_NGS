@@ -9,7 +9,7 @@
 
 ## Reportes.
 
-Todos los reportes de calidad generados durante este analisis estan disponibles de forma interactiva en los siguientes links:
+Todos los reportes de calidad generados durante este analisis estan disponibles en los siguientes links:
 
 | Reporte | Link |
 |---|---|
